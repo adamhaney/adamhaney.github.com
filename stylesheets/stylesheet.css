@@ -347,7 +347,6 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
 }
 
 #footer_wrap {
@@ -407,4 +406,10 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+.blog_date{
+display: block;
+font-weight:700;
+font-size:11px;
 }
